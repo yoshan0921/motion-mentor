@@ -19,7 +19,7 @@ with mp_holistic.Holistic(
         # OpenCV handles images in BGR format by default, so convert to RGB format
         frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
-        # Execute hand tracking
+        # Execute holistic tracking
         results = holistic.process(frame_rgb)
 
         # Draw detected landmarks
