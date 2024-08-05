@@ -1,5 +1,14 @@
 # Motion Mentor
 
+## Purpose of this project
+The purpose of this project is to gain practical experience in real-time detection and inference processing on streaming data, utilizing MediaPipe, an open-source framework for building pipelines to perform computer vision inference.
+
+## Features
+TBD
+
+## Screens
+TBD
+
 ## Quick Start
 ```
 $ pipenv install
@@ -19,8 +28,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
 * Also, make sure that the Python interpreter configured to run Python scripts in VSCode is that of the virtual environment.
-
-## Quick Start
 
 ## Technologies
 * Python
